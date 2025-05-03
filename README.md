@@ -22,5 +22,5 @@ I am a passionate **MERN Stack Developer** and **Python Programmer** with a stro
 
 ## 📬 Let's Connect  
 💡 Open to collaboration on **exciting open-source projects!**  
-📧 Email me at **udayraut128@gmail.com**  
+📧 Email me at **rautuday75@gmail.com**  
 
