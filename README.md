@@ -9,7 +9,7 @@ I am a passionate **MERN Stack Developer** and **Python Programmer** with a stro
 - 🌐 **Full-Stack Development** with **MongoDB, Express.js, React.js, and Node.js**  
 - 🐍 **Python Development** for automation, scripting, and web applications  
 - 🏗️ **Building Scalable APIs** and crafting smooth, user-friendly **frontends**  
-- 🎥 **Content Creator** at **[UdayBytes](https://www.youtube.com/@UdayBytes)**, teaching programming and tech concepts  
+- 🎥 **Content Creator** at **[Hacker Bytez](https://www.youtube.com/@HackerBytez)**, teaching programming and tech concepts  
 
 ## 📌 Current Project  
 🏫 **College Management System** – A robust platform for managing academic and administrative operations.  
