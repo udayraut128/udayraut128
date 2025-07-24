@@ -9,13 +9,13 @@ I’m a tech enthusiast exploring the world of **Flutter development** and **Cyb
 
 ## 💻 What I Do  
 - 📱 Creating cross-platform mobile apps using **Flutter & Dart**  
-- 🔐 Practicing **ethical hacking** and learning tools like **Burp Suite**, **Nmap**, **Wireshark**  
+- 🔐 Practicing **ethical hacking** and learning tools like **Burp Suite**, **Nmap**, **Metasploit** , **Wireshark**  
 - 🔌 Working with **Firebase**, APIs, and state management (Provider, Bloc)  
 - 🧠 Exploring topics like **OWASP Top 10** and **network security basics**
 
 ## 📚 Tech Stack  
-- **Languages:** Dart, Python (basic), C++  
-- **Tools & Platforms:** Flutter, Firebase, GitHub, Android Studio, Kali Linux  
+- **Languages:** Dart, Python, JavaScript and Bash Scripting  
+- **Tools & Platforms:** Flutter, Firebase, GitHub, Android Studio, Kali Linux and its tools
 
 ## 🧪 TryHackMe Progress  
 <img src="https://tryhackme-badges.s3.amazonaws.com/udayraut128.png" alt="TryHackMe Badge" />
