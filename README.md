@@ -9,7 +9,7 @@ I’m a tech enthusiast exploring the world of **Flutter development** and **Cyb
 
 ## 💻 What I Do  
 - 📱 Creating cross-platform mobile apps using **Flutter & Dart**  
-- 🔐 Practicing **ethical hacking** and learning tools like **Burp Suite**, **Nmap**, **Metasploit** , **Wireshark**  
+- 🔐 Practicing **ethical hacking** and learning tools like **Burp Suite**, **Nmap**, **Metasploit**, **Wireshark**  
 - 🔌 Working with **Firebase**, APIs, and state management (Provider, Bloc)  
 - 🧠 Exploring topics like **OWASP Top 10** and **network security basics**
 
@@ -22,7 +22,8 @@ I’m a tech enthusiast exploring the world of **Flutter development** and **Cyb
 
 ## 🌐 Portfolio  
 - 📱 [Flutter Developer Portfolio](https://udayraut128.github.io/My-Portfolio/)  
-- 🛡️ [Cybersecurity Portfolio](https://udayraut128.github.io/My-Portfolio-1/)
+- 🛡️ [Cybersecurity Portfolio](https://udayraut128.github.io/My-Portfolio-1/)  
+- 🌐 [HackerBytez](https://hackerbytez.com)
 
 ## 📬 Let's Connect  
 💡 Open to learning, collaboration, and contributing to open-source  
