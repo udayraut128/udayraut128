@@ -1,28 +1,24 @@
 # 👋 Hey there! I'm Uday Raut
 
-🚀 **Learning Flutter & Ethical Hacking**  
-Building sleek mobile apps with Flutter & securing systems through ethical hacking.  
+🚀 **Learning Flutter, Python Development & DSA**  
+Building sleek mobile apps with Flutter, developing robust backend tools with Python, and solving algorithmic challenges through DSA.  
 💡 Passionate | Curious | Always Learning
 
 ## 🔹 About Me  
-I’m a tech enthusiast exploring the world of **Flutter development** and **Cybersecurity**. I love turning ideas into apps and understanding how to protect digital systems from threats.
+I’m a tech enthusiast exploring the world of **Flutter**, **Python development**, and **Data Structures & Algorithms (DSA)**. I love turning ideas into apps, solving real-world problems, and optimizing code through logical thinking.
 
 ## 💻 What I Do  
 - 📱 Creating cross-platform mobile apps using **Flutter & Dart**  
-- 🔐 Practicing **ethical hacking** and learning tools like **Burp Suite**, **Nmap**, **Metasploit**, **Wireshark**  
-- 🔌 Working with **Firebase**, APIs, and state management (Provider, Bloc)  
-- 🧠 Exploring topics like **OWASP Top 10** and **network security basics**
+- 🐍 Developing backend tools and scripts using **Python**  
+- 🧠 Practicing **DSA** regularly to enhance problem-solving skills  
+- 🔌 Working with **Firebase**, REST APIs, and state management (Provider, Bloc)
 
 ## 📚 Tech Stack  
-- **Languages:** Dart, Python, JavaScript and Bash Scripting  
-- **Tools & Platforms:** Flutter, Firebase, GitHub, Android Studio, Kali Linux and its tools
-
-## 🧪 TryHackMe Progress  
-<img src="https://tryhackme-badges.s3.amazonaws.com/udayraut128.png" alt="TryHackMe Badge" />
+- **Languages:** Dart, Python, JavaScript, Bash Scripting  
+- **Tools & Platforms:** Flutter, Firebase, GitHub, Android Studio, VS Code
 
 ## 🌐 Portfolio  
 - 📱 [Flutter Developer Portfolio](https://udayraut128.github.io/My-Portfolio/)  
-- 🛡️ [Cybersecurity Portfolio](https://udayraut128.github.io/My-Portfolio-1/)  
 - 🌐 [HackerBytez](https://hackerbytez.com)
 
 ## 📬 Let's Connect  
