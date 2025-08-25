@@ -1,11 +1,14 @@
 <div align="center">
 
-  <!-- Typing Animation Header -->
+  <!-- Permanent Name Header -->
+  <h1>👋 Hi, I'm <strong>Uday Raut</strong></h1>
+
+  <!-- Typing Animation for Roles Only -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=1000&color=22D3EE&background=0D111700&center=true&vCenter=true&width=600&lines=Uday+Raut;Flutter+Developer;Python+Developer;DSA+Enthusiast;Open+Source+Contributor" alt="Typing Animation">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3500&pause=1000&color=22D3EE&background=0D111700&center=true&vCenter=true&width=450&lines=Flutter+Developer;Python+Developer;DSA+Enthusiast;Open+Source+Contributor" alt="Typing Animation">
   </a>
 
-  <!-- Profile Badges -->
+  <!-- Badges -->
   <p>
     <img src="https://komarev.com/ghpvc/?username=udayraut128&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views">
     <img src="https://img.shields.io/badge/Status-Open%20to%20Collaboration-brightgreen" alt="Availability">
@@ -16,7 +19,7 @@
 
 ## 🎯 About Me
 <div align="center">
-  <p>Hey there! I’m <strong>Uday Raut</strong> — a passionate developer focused on <strong>Flutter development</strong>, <strong>Python backend development</strong>, and <strong>Data Structures & Algorithms</strong>. I love turning ideas into apps, writing clean code, and solving complex problems efficiently.</p>
+  <p>I’m a passionate developer focused on <strong>Flutter development</strong>, <strong>Python backend development</strong>, and <strong>Data Structures & Algorithms</strong>. I love turning ideas into apps, writing clean code, and solving complex problems efficiently.</p>
 </div>
 
 ---
