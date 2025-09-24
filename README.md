@@ -53,7 +53,7 @@
   </tr>
   <tr>
     <td><strong>Frameworks & Tools</strong></td>
-    <td>React.js, Django, Firebase, Git, MongoDB, REST API,Docker,Linux</td>
+    <td>React.js, Django, Firebase, Git, MongoDB, REST API, Docker, Linux</td>
   </tr>
   <tr>
     <td><strong>Focus Areas</strong></td>
