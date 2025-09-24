@@ -5,7 +5,7 @@
 
   <!-- Typing Animation for Roles Only -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3500&pause=1000&color=22D3EE&background=0D111700&center=true&vCenter=true&width=450&lines=Flutter+Developer;Python+Developer;DSA+Enthusiast;Open+Source+Contributor" alt="Typing Animation">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3500&pause=1000&color=22D3EE&background=0D111700&center=true&vCenter=true&width=480&lines=Full+Stack+Web+Developer;React.js+%7C+Django+%7C+Python;MongoDB+%7C+Firebase+%7C+REST+API;AI+%2F+ML+Enthusiast" alt="Typing Animation">
   </a>
 
   <!-- Badges -->
@@ -17,9 +17,11 @@
 
 </div>
 
+---
+
 ## 🎯 About Me
 <div align="center">
-  <p>I’m a passionate developer focused on <strong>Flutter development</strong>, <strong>Python backend development</strong>, and <strong>Data Structures & Algorithms</strong>. I love turning ideas into apps, writing clean code, and solving complex problems efficiently.</p>
+  <p>I’m a passionate <strong>Full Stack Developer</strong> focused on building scalable and smart web applications using <strong>React.js</strong>, <strong>Django</strong>, and <strong>Python</strong>. I also enjoy exploring <strong>AI/ML</strong> and working with tools like <strong>Firebase</strong> and <strong>MongoDB</strong>.</p>
 </div>
 
 ---
@@ -27,10 +29,10 @@
 ## 💻 What I Do
 <div align="center">
   <ul align="left">
-    <li>📱 Creating cross-platform mobile apps using <strong>Flutter & Dart</strong></li>
-    <li>🐍 Building backend tools and utilities in <strong>Python</strong></li>
-    <li>🧠 Practicing <strong>DSA</strong> for better logic and performance</li>
-    <li>🔌 Working with <strong>Firebase</strong>, REST APIs, and state management (Provider, Bloc)</li>
+    <li>🌐 Build frontend interfaces with <strong>React.js</strong> & modern JavaScript</li>
+    <li>🛠️ Create secure, RESTful APIs using <strong>Django & Python</strong></li>
+    <li>📦 Work with databases like <strong>MongoDB</strong>, <strong>Firebase</strong>, and PostgreSQL</li>
+    <li>🧠 Explore <strong>AI/ML</strong> with Python libraries like <strong>Scikit-learn</strong>, <strong>Pandas</strong>, <strong>TensorFlow</strong></li>
   </ul>
 </div>
 
@@ -38,7 +40,7 @@
 
 ## 🛠 Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,python,js,bash,firebase,github,vscode,androidstudio&perline=6" />
+  <img src="https://skillicons.dev/icons?i=react,django,python,mongodb,firebase,js,html,css,git,linux,vscode&perline=6" />
 </div>
 
 ---
@@ -47,15 +49,15 @@
 <table align="center">
   <tr>
     <td><strong>Languages</strong></td>
-    <td>Dart, Python, JavaScript, Bash</td>
+    <td>Python, JavaScript, HTML, CSS, SQL</td>
   </tr>
   <tr>
     <td><strong>Frameworks & Tools</strong></td>
-    <td>Flutter, Firebase, GitHub, VS Code, Android Studio</td>
+    <td>React.js, Django, Firebase, Git, MongoDB, REST API</td>
   </tr>
   <tr>
     <td><strong>Focus Areas</strong></td>
-    <td>Mobile App Development, Backend Scripting, DSA</td>
+    <td>Full Stack Web Development, Backend Engineering, AI/ML</td>
   </tr>
 </table>
 
@@ -65,7 +67,7 @@
 <div align="center">
   <table>
     <tr>
-      <td><strong>Flutter Portfolio</strong></td>
+      <td><strong>Portfolio</strong></td>
       <td><a href="https://udayraut128.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/View-blue?style=flat-square"></a></td>
     </tr>
     <tr>
