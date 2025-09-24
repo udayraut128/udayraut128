@@ -40,7 +40,7 @@
 
 ## 🛠 Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,django,python,mongodb,firebase,js,html,css,git,linux,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=react,django,python,mongodb,firebase,js,html,css,git,linux,docker,vscode&perline=6" />
 </div>
 
 ---
@@ -49,11 +49,11 @@
 <table align="center">
   <tr>
     <td><strong>Languages</strong></td>
-    <td>Python, JavaScript, HTML, CSS, SQL</td>
+    <td>Python, JavaScript, HTML, CSS, Tailwind CSS</td>
   </tr>
   <tr>
     <td><strong>Frameworks & Tools</strong></td>
-    <td>React.js, Django, Firebase, Git, MongoDB, REST API</td>
+    <td>React.js, Django, Firebase, Git, MongoDB, REST API,Docker,Linux</td>
   </tr>
   <tr>
     <td><strong>Focus Areas</strong></td>
