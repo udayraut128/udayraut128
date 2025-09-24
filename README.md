@@ -31,7 +31,7 @@
   <ul align="left">
     <li>🌐 Build frontend interfaces with <strong>React.js</strong> & modern JavaScript</li>
     <li>🛠️ Create secure, RESTful APIs using <strong>Django & Python</strong></li>
-    <li>📦 Work with databases like <strong>MongoDB</strong>, <strong>Firebase</strong>, and PostgreSQL</li>
+    <li>📦 Work with databases like <strong>MongoDB</strong>, and <strong>Firebase</strong></li>
     <li>🧠 Explore <strong>AI/ML</strong> with Python libraries like <strong>Scikit-learn</strong>, <strong>Pandas</strong>, <strong>TensorFlow</strong></li>
   </ul>
 </div>
