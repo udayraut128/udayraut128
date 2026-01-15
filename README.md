@@ -70,15 +70,16 @@
 </table>
 
 ---
+  
 ## 🛡️ Cyber Security & Kali Linux Tools
 <div align="center">
 
-  <!-- Core Icons -->
-  <img src="https://skillicons.dev/icons?i=kalilinux,linux,bash,python&perline=6" />
+  <!-- Core Kali / Security / Dev Icons -->
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,kalilinux,docker,git,vscode&perline=6" />
 
   <br><br>
 
-  <!-- Kali / Security Tool Badges -->
+  <!-- Tools without core icons as badges -->
   <img src="https://img.shields.io/badge/Nmap-Network%20Scanning-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Metasploit-Exploitation-red?style=flat-square" />
   <img src="https://img.shields.io/badge/Wireshark-Network%20Analysis-0096D6?style=flat-square" />
@@ -182,6 +183,17 @@
         </a>
       </td>
     </tr>
+      <tr>
+  <td><strong>TryHackMe</strong></td>
+  <td>Profile</td>
+  <td>
+    <a href="https://tryhackme.com/p/udayraut128">
+      <img src="https://img.shields.io/badge/TryHackMe-udayraut128-blueviolet?style=flat-square" />
+    </a>
+  </td>
+</tr>
+
+
     
   </table>
 </div>
