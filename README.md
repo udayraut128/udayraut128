@@ -1,18 +1,18 @@
 <div align="center">
 
-  <!-- Permanent Name Header -->
-  <h1>👋 Hi, I'm <strong>Uday Raut</strong></h1>
+  <!-- 👋 Name Header -->
+  <h1 style="background: linear-gradient(90deg,#22D3EE,#6366F1); -webkit-background-clip: text; color: transparent;">
+    👋 Hi, I'm <strong>Uday Raut</strong>
+  </h1>
 
-  <!-- Typing Animation for Roles Only -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3500&pause=1000&color=22D3EE&background=0D111700&center=true&vCenter=true&width=520&lines=Python+Developer;Cyber+Security;AI+%2F+ML+Enthusiast;Problem+Solver+with+Clean+Code" alt="Typing Animation">
-  </a>
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=1000&color=22D3EE&background=0D111700&center=true&vCenter=true&width=600&lines=Python+Developer;Cyber+Security;AI+%2F+ML+Enthusiast;Problem+Solver+with+Clean+Code" alt="Typing Animation">
 
-  <!-- Badges -->
+  <!-- Profile Badges -->
   <p>
     <img src="https://komarev.com/ghpvc/?username=udayraut128&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views">
-    <img src="https://img.shields.io/badge/Status-Open%20to%20Collaboration-brightgreen" alt="Availability">
-    <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-success" alt="Open to Work">
+    <img src="https://img.shields.io/badge/Status-Open%20to%20Collaboration-brightgreen?style=flat-square" alt="Availability">
+    <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-success?style=flat-square" alt="Open to Work">
   </p>
 
 </div>
@@ -64,107 +64,58 @@
     <td><strong>Focus Areas</strong></td>
     <td>Python Development, Cyber Security, AI / ML</td>
   </tr>
-  <tr> <td><strong>Frameworks & Tools</strong></td> 
+  <tr>
+    <td><strong>Frameworks & Libraries</strong></td>
     <td>React.js, Django, Firebase, MongoDB</td>
   </tr>
 </table>
 
 ---
- 
-## 🌐 Portfolio
+
+## 🌐 Portfolio & Projects
 <div align="center">
-  <table>
-    <tr>
-      <td><strong>Portfolio</strong></td>
-      <td>
-        <a href="https://udayraut128.github.io/My-Portfolio/">
-          <img src="https://img.shields.io/badge/View-blue?style=flat-square">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Website</strong></td>
-      <td>
-        <a href="https://hackerbytez.com">
-          <img src="https://img.shields.io/badge/HackerBytez-Visit-success?style=flat-square">
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://udayraut128.github.io/My-Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-View-blueviolet?style=for-the-badge&logo=appveyor" alt="Portfolio">
+  </a>
+  <a href="https://hackerbytez.com" target="_blank">
+    <img src="https://img.shields.io/badge/HackerBytez-Visit-success?style=for-the-badge&logo=read-the-docs" alt="Website">
+  </a>
+</div>
+
+---
+
+## 🏆 Achievements & Badges
+<div align="center">
+  <a href="https://tryhackme.com/p/udayraut128" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/udayraut128.png" alt="TryHackMe Badge" width="250" style="border-radius:12px;">
+  </a>
 </div>
 
 ---
 
 ## 📬 Let's Connect
- <div align="center">
-  <table>
-    <tr>
-      <td><strong>Email</strong></td>
-      <td>rautuday75@gmail.com</td>
-      <td>
-        <a href="mailto:rautuday75@gmail.com">
-          <img src="https://img.shields.io/badge/Email-Send-red?style=flat-square&logo=gmail">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>LinkedIn</strong></td>
-      <td>in/udayraut128</td>
-      <td>
-        <a href="https://linkedin.com/in/udayraut128">
-          <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>GitHub</strong></td>
-      <td>github.com/hackerbytez</td>
-      <td>
-        <a href="https://github.com/hackerbytez">
-          <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Docker Hub</strong></td>
-      <td>docker.com/u/udayraut128</td>
-      <td>
-        <a href="https://hub.docker.com/u/udayraut128">
-          <img src="https://img.shields.io/badge/Docker%20Hub-Follow-2496ED?style=flat-square&logo=docker&logoColor=white">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Instagram</strong></td>
-      <td>@udayraut128</td>
-      <td>
-        <a href="https://www.instagram.com/udayraut128">
-          <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Discord</strong></td>
-      <td>Join My Server</td>
-      <td>
-        <a href="https://discord.gg/mSEG5FgD">
-          <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=flat-square&logo=discord&logoColor=white">
-        </a>
-      </td>
-    </tr>
-      <tr>
-  <td><strong>TryHackMe</strong></td>
-  <td>p/udayraut128</td>
-  <td>
-    <a href="https://tryhackme.com/p/udayraut128">
-      <img src="https://img.shields.io/badge/TryHackMe-udayraut128-blueviolet?style=flat-square" />
-    </a>
-  </td>
-</tr>
-
-
-    
-  </table>
+<div align="center">
+  <a href="mailto:rautuday75@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Send-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://linkedin.com/in/udayraut128">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://github.com/hackerbytez">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://hub.docker.com/u/udayraut128">
+    <img src="https://img.shields.io/badge/Docker-Follow-2496ED?style=for-the-badge&logo=docker">
+  </a>
+  <a href="https://www.instagram.com/udayraut128">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram">
+  </a>
+  <a href="https://discord.gg/mSEG5FgD">
+    <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord">
+  </a>
+  <a href="https://tryhackme.com/p/udayraut128">
+    <img src="https://img.shields.io/badge/TryHackMe-udayraut128-blueviolet?style=for-the-badge&logo=tryhackme">
+  </a>
 </div>
 
 ---
