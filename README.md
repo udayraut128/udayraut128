@@ -143,13 +143,7 @@
         </a>
       </td>
     </tr>
-    <tr>
-      <td><strong>Discord</strong></td>
-      <td>udayraut128</td>
-      <td>
-        <img src="https://discord.gg/mSEG5FgD?style=flat-square&logo=discord&logoColor=white">
-      </td>
-    </tr>
+    
   </table>
 </div>
 
