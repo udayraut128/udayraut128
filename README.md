@@ -143,6 +143,15 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td><strong>Discord</strong></td>
+      <td>Join My Server</td>
+      <td>
+        <a href="https://discord.gg/mSEG5FgD">
+          <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=flat-square&logo=discord&logoColor=white">
+        </a>
+      </td>
+    </tr>
     
   </table>
 </div>
