@@ -5,7 +5,7 @@
 
   <!-- Typing Animation for Roles Only -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3500&pause=1000&color=22D3EE&background=0D111700&center=true&vCenter=true&width=520&lines=Python+Developer;Cyber+Security+Enthusiast;AI+%2F+ML+Enthusiast;Problem+Solver+with+Clean+Code" alt="Typing Animation">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3500&pause=1000&color=22D3EE&background=0D111700&center=true&vCenter=true&width=520&lines=Python+Developer;Cyber+Security;AI+%2F+ML+Enthusiast;Problem+Solver+with+Clean+Code" alt="Typing Animation">
   </a>
 
   <!-- Badges -->
@@ -58,11 +58,14 @@
   </tr>
   <tr>
     <td><strong>Tools & Platforms</strong></td>
-    <td>Git, Linux, Docker, REST APIs, VS Code</td>
+    <td>Git & GitHub, Linux, Docker, REST APIs, VS Code</td>
   </tr>
   <tr>
     <td><strong>Focus Areas</strong></td>
     <td>Python Development, Cyber Security, AI / ML</td>
+  </tr>
+  <tr> <td><strong>Frameworks & Tools</strong></td> 
+    <td>React.js, Django, Firebase, MongoDB</td>
   </tr>
 </table>
 
@@ -129,6 +132,6 @@
 
 <div align="center">
   <br>
-  <p>© 2025 Uday Raut | All Rights Reserved</p>
+  <p>© 2026 Uday Raut | All Rights Reserved</p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer">
 </div>
