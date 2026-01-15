@@ -93,6 +93,14 @@
 
 ---
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=udayraut128&show_icons=true&locale=en&layout=compact" alt="udayraut128" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=udayraut128&show_icons=true&locale=en" alt="udayraut128" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=udayraut128&" alt="udayraut128" /></p>
+
+---
+
 ## 📬 Let's Connect
 <div align="center">
   <a href="mailto:rautuday75@gmail.com">
