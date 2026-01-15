@@ -33,19 +33,20 @@
  ## 📊 GitHub Stats
 <div align="center">
 
-  <!-- GitHub Overall Stats -->
+  <!-- Overall Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=udayraut128&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" width="380"/>
 
-  <!-- GitHub Streak Stats -->
+  <!-- Streak Stats -->
   <img src="https://streak-stats.demolab.com/?user=udayraut128&theme=radical" alt="GitHub Streak" width="380"/>
 
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udayraut128&layout=compact&theme=radical" alt="Top Languages" width="380"/>
 
   <!-- Contribution Graph -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=udayraut128&theme=react-dark&hide_border=true" alt="Contribution Graph" width="800"/>
+  <img src="https://activity-graph-demo.vercel.app/graph?username=udayraut128&theme=react-dark&hide_border=true" alt="Contribution Graph" width="800"/>
 
 </div>
+
 
 
 ---
