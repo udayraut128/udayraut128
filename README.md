@@ -70,18 +70,37 @@
 </table>
 
 ---
-:
+## 🛡️ Cyber Security & Kali Linux Tools
+<div align="center">
 
-🛡️ Cyber Security & Kali Linux Tools
-<div align="center"> <!-- Core Icons --> <img src="https://skillicons.dev/icons?i=kalilinux,linux,bash,python&perline=6" />
+  <!-- Core Icons -->
+  <img src="https://skillicons.dev/icons?i=kalilinux,linux,bash,python&perline=6" />
 
-<br><br>
+  <br><br>
 
-Kali / Security Tool Badges  <img src="https://img.shields.io/badge/Nmap-Network%20Scanning-blue?style=flat-square" /> <img src="https://img.shields.io/badge/Metasploit-Exploitation-red?style=flat-square" /> <img src="https://img.shields.io/badge/Wireshark-Network%20Analysis-0096D6?style=flat-square" /> <img src="https://img.shields.io/badge/Burp%20Suite-Web%20Security-orange?style=flat-square" /> <img src="https://img.shields.io/badge/Hydra-Brute%20Force-darkred?style=flat-square" /> <img src="https://img.shields.io/badge/John%20the%20Ripper-Password%20Cracking-black?style=flat-square" /> <img src="https://img.shields.io/badge/Nikto-Web%20Scanner-green?style=flat-square" />
+  <!-- Kali / Security Tool Badges -->
+  <img src="https://img.shields.io/badge/Nmap-Network%20Scanning-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Metasploit-Exploitation-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Wireshark-Network%20Analysis-0096D6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-Web%20Security-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Hydra-Brute%20Force-darkred?style=flat-square" />
+  <img src="https://img.shields.io/badge/John%20the%20Ripper-Password%20Cracking-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/Nikto-Web%20Scanner-green?style=flat-square" />
 
-<br><br>
+  <br><br>
 
- CTF / Learning Badges <img src="https://img.shields.io/badge/CTF-Challenges-purple?style=flat-square" /> <img src="https://img.shields.io/badge/TryHackMe-Learning-blueviolet?style=flat-square" /> <img src="https://img.shields.io/badge/HackTheBox-Practice-black?style=flat-square" /> <img src="https://img.shields.io/badge/Pentest-Labs-red?style=flat-square" /> </div>
+  <!-- CTF / Learning Badges with Links -->
+  <a href="https://tryhackme.com/p/udayraut128">
+    <img src="https://img.shields.io/badge/TryHackMe-udayraut128-blueviolet?style=flat-square" />
+  </a>
+  <img src="https://img.shields.io/badge/HackTheBox-Practice-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/CTF-Challenges-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/Pentest-Labs-red?style=flat-square" />
+
+</div>
+
+
+ 
 ## 🌐 Portfolio
 <div align="center">
   <table>
