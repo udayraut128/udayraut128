@@ -116,27 +116,41 @@
 
 ## 📬 Let's Connect
 <div align="center">
-  <a href="mailto:rautuday75@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Send-red?style=for-the-badge&logo=gmail">
+ 
+  <a href="https://www.linkedin.com/in/udayraut128" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
-  <a href="https://linkedin.com/in/udayraut128">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  <a href="https://twitter.com/udayraut128" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
   </a>
-  <a href="https://github.com/hackerbytez">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
+  <a href="https://discord.gg/mSEG5FgD" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
   </a>
-  <a href="https://hub.docker.com/u/udayraut128">
-    <img src="https://img.shields.io/badge/Docker-Follow-2496ED?style=for-the-badge&logo=docker">
+  <a href="https://www.youtube.com/@HackerBytez" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" />
   </a>
-  <a href="https://www.instagram.com/udayraut128">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram">
+  <a href="https://www.instagram.com/udayraut128" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   </a>
-  <a href="https://discord.gg/mSEG5FgD">
-    <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord">
+  <a href="mailto:udayraut128@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
-  <a href="https://tryhackme.com/p/udayraut128">
-    <img src="https://img.shields.io/badge/TryHackMe-udayraut128-blueviolet?style=for-the-badge&logo=tryhackme">
+  <a href="https://tryhackme.com/p/udayraut128" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo" />
   </a>
+  <a href="https://wa.me/7061692516" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
+  </a>
+  <a href="https://t.me/hackerbytez" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />
+  </a>
+  <a href="https://stackoverflow.com/users/udayraut128" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo" />
+  </a>
+  <a href="https://www.facebook.com/udayraut0128" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" />
+  </a>
+
 </div>
 
 ---
