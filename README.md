@@ -30,7 +30,23 @@
 </div>
 
 ---
+## 📊 GitHub Stats
+<div align="center">
 
+  <!-- GitHub Overall Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=udayraut128&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" width="380"/>
+
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udayraut128&theme=radical" alt="GitHub Streak" width="380"/>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udayraut128&layout=compact&theme=radical" alt="Top Languages" width="380"/>
+
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=udayraut128&theme=react-dark&hide_border=true" alt="Contribution Graph" width="800"/>
+
+</div>
+---
 ## 💻 What I Do
 <div align="center">
   <ul align="left">
@@ -90,15 +106,6 @@
     <img src="https://tryhackme-badges.s3.amazonaws.com/udayraut128.png" alt="TryHackMe Badge" width="250" style="border-radius:12px;">
   </a>
 </div>
-
----
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=udayraut128&show_icons=true&locale=en&layout=compact" alt="udayraut128" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=udayraut128&show_icons=true&locale=en" alt="udayraut128" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=udayraut128&" alt="udayraut128" /></p>
-
 ---
 
 ## 📬 Let's Connect
