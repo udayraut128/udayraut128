@@ -30,28 +30,7 @@
 </div>
 
 ---
- ## 📊 GitHub Stats
-<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=udayraut128&" alt="udayraut128" /></p>
-
-  <!-- Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=udayraut128&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" width="380"/>
-
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com/?user=udayraut128&theme=radical" alt="GitHub Streak" width="380"/>
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udayraut128&layout=compact&theme=radical" alt="Top Languages" width="380"/>
-
-  <!-- Contribution Graph -->
-  <img src="https://activity-graph-demo.vercel.app/graph?username=udayraut128&theme=react-dark&hide_border=true" alt="Contribution Graph" width="800"/>
-
-</div>
-
-
-
----
 
 ## 💻 What I Do
 <div align="center">
@@ -112,6 +91,16 @@
     <img src="https://tryhackme-badges.s3.amazonaws.com/udayraut128.png" alt="TryHackMe Badge" width="250" style="border-radius:12px;">
   </a>
 </div>
+
+--- 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/udayraut128/udayraut128/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/udayraut128/udayraut128/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/udayraut128/udayraut128/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 ---
 
 ## 📬 Let's Connect
