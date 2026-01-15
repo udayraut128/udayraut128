@@ -33,6 +33,8 @@
  ## 📊 GitHub Stats
 <div align="center">
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=udayraut128&" alt="udayraut128" /></p>
+
   <!-- Overall Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=udayraut128&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" width="380"/>
 
