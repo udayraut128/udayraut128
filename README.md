@@ -45,7 +45,7 @@
 
 ## 🛠 Tech Stack
 <div align="center">
-   <img src="https://skillicons.dev/icons?i=python,bash,linux,kalilinux,git,html,css,js,docker,react,django,mongodb,firebase,vscode&perline=6" />
+   <img src="https://skillicons.dev/icons?i=python,bash,linux,git,html,css,js,docker,react,django,mongodb,firebase,vscode&perline=6" />
 </div>
 
 ---
@@ -70,37 +70,6 @@
 </table>
 
 ---
-  
-## 🛡️ Cyber Security & Kali Linux Tools
-<div align="center">
-
-  <!-- Core Kali / Security / Dev Icons -->
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,kalilinux,docker,git,vscode&perline=6" />
-
-  <br><br>
-
-  <!-- Tools without core icons as badges -->
-  <img src="https://img.shields.io/badge/Nmap-Network%20Scanning-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Metasploit-Exploitation-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/Wireshark-Network%20Analysis-0096D6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-Web%20Security-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Hydra-Brute%20Force-darkred?style=flat-square" />
-  <img src="https://img.shields.io/badge/John%20the%20Ripper-Password%20Cracking-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/Nikto-Web%20Scanner-green?style=flat-square" />
-
-  <br><br>
-
-  <!-- CTF / Learning Badges with Links -->
-  <a href="https://tryhackme.com/p/udayraut128">
-    <img src="https://img.shields.io/badge/TryHackMe-udayraut128-blueviolet?style=flat-square" />
-  </a>
-  <img src="https://img.shields.io/badge/HackTheBox-Practice-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/CTF-Challenges-purple?style=flat-square" />
-  <img src="https://img.shields.io/badge/Pentest-Labs-red?style=flat-square" />
-
-</div>
-
-
  
 ## 🌐 Portfolio
 <div align="center">
@@ -185,7 +154,7 @@
     </tr>
       <tr>
   <td><strong>TryHackMe</strong></td>
-  <td>Profile</td>
+  <td>p/udayraut128</td>
   <td>
     <a href="https://tryhackme.com/p/udayraut128">
       <img src="https://img.shields.io/badge/TryHackMe-udayraut128-blueviolet?style=flat-square" />
