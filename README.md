@@ -147,7 +147,7 @@
       <td><strong>Discord</strong></td>
       <td>udayraut128</td>
       <td>
-        <img src="https://img.shields.io/badge/Discord-udayraut128-5865F2?style=flat-square&logo=discord&logoColor=white">
+        <img src="https://discord.gg/mSEG5FgD?style=flat-square&logo=discord&logoColor=white">
       </td>
     </tr>
   </table>
