@@ -96,7 +96,7 @@
 ---
 
 ## 📬 Let's Connect
-<div align="center">
+ <div align="center">
   <table>
     <tr>
       <td><strong>Email</strong></td>
@@ -117,12 +117,37 @@
       </td>
     </tr>
     <tr>
+      <td><strong>GitHub</strong></td>
+      <td>github.com/hackerbytez</td>
+      <td>
+        <a href="https://github.com/hackerbytez">
+          <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Docker Hub</strong></td>
+      <td>docker.com/u/udayraut128</td>
+      <td>
+        <a href="https://hub.docker.com/u/udayraut128">
+          <img src="https://img.shields.io/badge/Docker%20Hub-Follow-2496ED?style=flat-square&logo=docker&logoColor=white">
+        </a>
+      </td>
+    </tr>
+    <tr>
       <td><strong>Instagram</strong></td>
       <td>@udayraut128</td>
       <td>
         <a href="https://www.instagram.com/udayraut128">
           <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram">
         </a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Discord</strong></td>
+      <td>udayraut128</td>
+      <td>
+        <img src="https://img.shields.io/badge/Discord-udayraut128-5865F2?style=flat-square&logo=discord&logoColor=white">
       </td>
     </tr>
   </table>
