@@ -29,16 +29,7 @@
   </p>
 </div>
 
----
-# [GitHub Stats Visualization](https://github.com/udayraut128/github-stats)
-
-
-<a href="https://github.com/udayraut128/github-stats">
-<img src="https://github.com/udayraut128/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/udayraut128/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-<img src="https://github.com/udayraut128/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
-<img src="https://github.com/udayraut128/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
-</a>
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💻 What I Do
 <div align="center">
@@ -100,15 +91,6 @@
   </a>
 </div>
 
---- 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/udayraut128/udayraut128/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/udayraut128/udayraut128/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/udayraut128/udayraut128/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 ---
 
 ## 📬 Let's Connect
