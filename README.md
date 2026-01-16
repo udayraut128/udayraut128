@@ -30,8 +30,7 @@
 </div>
 
 ---
-![](https://raw.githubusercontent.com/udayraut128/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/udayraut128/github-stats/master/generated/overview.svg#gh-light-mode-only)
+# [GitHub Stats Visualization](https://github.com/udayraut128/github-stats)
 
 
 <a href="https://github.com/udayraut128/github-stats">
