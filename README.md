@@ -1,4 +1,4 @@
-![Uday's GitHub stats](https://github-readme-stats.vercel.app/api?username=udayraut128&show_icons=true&theme=radical)
+ 
 
 <div align="center">
 
@@ -20,7 +20,7 @@
 </div>
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=udayraut128&show_icons=true&theme=radical)
+
 ## 🎯 About Me
 <div align="center">
   <p>
