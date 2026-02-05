@@ -104,9 +104,13 @@
   <a href="https://tryhackme.com/p/udayraut128" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo" />
   </a>
-    <a href="https://hub.docker.com/u/udayraut128" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/docker/default.svg" width="52" height="40" alt="docker logo" />
+  <a href="https://app.hackthebox.com/users/udayraut128" target="_blank">
+  <img src="https://cdn.simpleicons.org/hackthebox/9FEF00" width="52" height="40" alt="hackthebox logo" />
 </a>
+    <a href="https://hub.docker.com/u/udayraut128" target="_blank">
+  <img src="https://cdn.simpleicons.org/docker/2496ED" width="52" height="40" alt="docker logo" />
+</a>
+
   <a href="https://twitter.com/udayraut128" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
   </a>
