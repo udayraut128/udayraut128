@@ -32,7 +32,7 @@
 ---
 
 ## 🔐 What I Do
-<div align="center">
+<div align="left">
   <ul align="left">
     <li>🛡 Perform <strong>Penetration Testing</strong> on web applications</li>
     <li>🔍 Conduct <strong>Vulnerability Assessment</strong> and security analysis</li>
@@ -118,19 +118,17 @@
 
 ## 📬 Connect With Me
 <div align="center">
-
-<a href="https://www.linkedin.com/in/udayraut128" target="_blank">
-  <img src="https://cdn.simpleicons.org/linkedin" width="40"/>
-</a>
+ <a href="https://www.linkedin.com/in/udayraut128" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /> </a>
+<a href="https://twitter.com/udayraut128" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" /> </a>
+ 
+ 
 <a href="https://tryhackme.com/p/udayraut128" target="_blank">
   <img src="https://cdn.simpleicons.org/tryhackme/990000" width="40"/>
 </a>
 <a href="https://app.hackthebox.com/users/udayraut128" target="_blank">
   <img src="https://cdn.simpleicons.org/hackthebox/9FEF00" width="40"/>
 </a>
-<a href="https://twitter.com/udayraut128" target="_blank">
-  <img src="https://cdn.simpleicons.org/twitter" width="40"/>
-</a>
+ 
  <a href="https://t.me/hackerbytez" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" /> </a>
 
 </div>
