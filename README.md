@@ -178,7 +178,7 @@ I believe students learn programming better when they can **see, practice, build
 </a> -->
 
 <a href="https://techtoolshub.onrender.com/" target="_blank">
-  <img src="https://img.shields.io/badge/HackerBytez-Visit-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TechTools-Visit-success?style=for-the-badge" />
 </a>
 
 </div>
