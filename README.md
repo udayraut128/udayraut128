@@ -184,20 +184,7 @@ I believe students learn programming better when they can **see, practice, build
 </div>
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=udayraut128&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=udayraut128&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
+ 
 
 ## 📬 Connect With Me
 
