@@ -169,19 +169,22 @@ I believe students learn programming better when they can **see, practice, build
 
 ---
 
+ 
 ## 🌐 Websites
 
 <div align="center">
 
-<!-- <a href="https://portfolio.hackerbytez.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-View-blueviolet?style=for-the-badge" />
-</a> -->
-
-<a href="https://techtoolshub.onrender.com/" target="_blank">
-  <img src="https://img.shields.io/badge/TechTools-Visit-success?style=for-the-badge" />
+<a href="https://ugenzacademy.com" target="_blank">
+  <img src="https://img.shields.io/badge/Ugenz%20Academy-Visit-yellow?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ugenz Academy" />
 </a>
 
+<a href="https://tools.ugenzacademy.com" target="_blank">
+  <img src="https://img.shields.io/badge/Ugenz%20Tools-Explore-blue?style=for-the-badge&logo=tools&logoColor=white" alt="Ugenz Tools" />
+</a>
+ 
+
 </div>
+
 
 ---
  
